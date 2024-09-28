@@ -108,7 +108,7 @@
         <p>Tujuan sebenar website ini untuk saya menunjukkan skill saya dalam bidang edit video, jika anda memerlukan editor yang murah, anda telah berada di halaman yang tepat. PM sekarang untuk berurusan dengan saya!</p>
     </div>
 
-        <a href="https://wa.me/60133919891?text=/start" class="button">Chat di WhatsApp</a>
+        <a href="https://wa.me/60133919891?text=Hai,+nak+edite+video+boleh?class="button">Chat di WhatsApp</a>
     </div>
 
     <footer>
